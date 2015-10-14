@@ -1,0 +1,14 @@
+{
+  "name": "demohapi",
+  "version": "1.0.0",
+  "description": "Demo to try Hapi JS to create API REST with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "walter cordero",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^10.4.1"
+  }
+}
